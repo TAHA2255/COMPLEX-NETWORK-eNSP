@@ -2,8 +2,6 @@
 
 <h2>Overview</h2>
 <p>This project demonstrates a complex network setup using the eNSP simulator. The network incorporates essential networking features, including static routing, dynamic routing, RSTP, STP, DHCP, Relay, FTP, DNS, and more. The setup is designed to simulate real-world networking scenarios and test various configurations and protocols.</p>
-![Capture](https://github.com/user-attachments/assets/11b7918f-5845-40f9-8c52-99080dd58a4a)
-
 
 <h2>Features</h2>
 <ul>
